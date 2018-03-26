@@ -1,0 +1,49 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  border: 10px;
+}
+
+.text-muted {
+  color: #000;
+  text-align: center;
+}
+
+.col-lg-12 {
+  width: 90%;
+  text-align: center;
+}
+
+body {
+  background-color: #F7D537;
+}
+
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 17%;
+}
+
+.header {
+  
+  text-align: center;
+  width: 90%;
+  font-family:'Creepster', cursive;
+  font-weight: 400!important;
+  font-style: normal;
+}
